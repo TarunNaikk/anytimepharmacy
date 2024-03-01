@@ -2,4 +2,4 @@
 <br>
 #This My Pharmacy Website
 <br>
-#I'm the Author
+#I'm the Author Tarun Naik
